@@ -32,4 +32,4 @@ When the NPC detects the player character, it will transition to “AC_State_Pur
 ## AI patrol
 ![AI revese patrol](https://user-images.githubusercontent.com/69220988/170119215-f18ef683-82ec-4f27-82e0-cc8e45233448.gif)
 
-
+The “AC_State_Patrol” handles the direction and the patrol path the NPCs are supposed to follow. The player can press 3 on a selected NPC to toggle its patrol path from forward to reverse.
