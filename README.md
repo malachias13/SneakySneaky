@@ -1,6 +1,13 @@
 # SneakySneaky
 
-Developed with Unreal Engine 4
+### Sneaky sneaky is a small prototype that depict the versatility of a Hierarchical State Machine shown in NPCs (non-player characters). 
+![Level](https://user-images.githubusercontent.com/69220988/170120401-87fe95e1-d58c-4e1b-b201-3dd6c29574d9.png)
+A simple prototype level to display Ai capabilities.
+
+## Hierarchical State Machine 
+![StateComps](https://user-images.githubusercontent.com/69220988/170120352-1da15c40-3708-4a1e-a685-c22ce6825c10.png)
+
+
 ## AI Distracted
 ![AI Distract](https://user-images.githubusercontent.com/69220988/170116606-15e79f88-c41c-488e-9004-9137cdef8f09.gif)
 
