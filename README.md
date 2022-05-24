@@ -9,7 +9,8 @@ A simple prototype level to display Ai capabilities.
 ![image](https://user-images.githubusercontent.com/69220988/170121362-5f972204-b4a5-4565-97da-48973f6ea39b.png)
 AI states are encapsulated inside of components, which are parented to the Guards.
 
-![image](https://user-images.githubusercontent.com/69220988/170122060-7af98aca-db39-4aa1-86d1-ff2299c7874e.png)
+![StateEvents](https://user-images.githubusercontent.com/69220988/170122831-cb4c393b-0504-458b-abdc-342550f14796.png)
+
 Each state contains events that handles all functionality of the state. All events are called inside of the state machine component class.
 
 
