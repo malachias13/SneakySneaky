@@ -17,6 +17,8 @@ Each state contains events that handles all functionality of the state. All even
 ## AI Distracted
 ![AI Distract](https://user-images.githubusercontent.com/69220988/170116606-15e79f88-c41c-488e-9004-9137cdef8f09.gif)
 
+When the player presses 3 on a selected NPC, the NPC will transition to “AC_State_angry” and move towards the nearest flashing cube.
+
 ## AI Attack
 ![AI Kills player](https://user-images.githubusercontent.com/69220988/170118392-c1846e73-c196-4490-8c0c-1f2c90aea904.gif)
 
