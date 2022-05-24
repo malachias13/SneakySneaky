@@ -22,7 +22,7 @@ When the player presses 3 on a selected NPC, the NPC will transition to “AC_St
 ## AI Attack
 ![AI Kills player](https://user-images.githubusercontent.com/69220988/170118392-c1846e73-c196-4490-8c0c-1f2c90aea904.gif)
 
-
+When the NPC is in range to attack the player character, it will transition to the “AC_State_Attack” and attack.
 
 ## AI sight perception
 ![AI Chase](https://user-images.githubusercontent.com/69220988/170118845-3d4680bc-1fb5-45ec-9842-f2cc0636b4ec.gif)
@@ -31,3 +31,5 @@ When the NPC detects the player character, it will transition to “AC_State_Pur
 
 ## AI patrol
 ![AI revese patrol](https://user-images.githubusercontent.com/69220988/170119215-f18ef683-82ec-4f27-82e0-cc8e45233448.gif)
+
+
