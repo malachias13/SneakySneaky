@@ -7,6 +7,7 @@ A simple prototype level to display Ai capabilities.
 ## Hierarchical State Machine 
 ![StateComps](https://user-images.githubusercontent.com/69220988/170120352-1da15c40-3708-4a1e-a685-c22ce6825c10.png)
 ![image](https://user-images.githubusercontent.com/69220988/170121362-5f972204-b4a5-4565-97da-48973f6ea39b.png)
+
 AI states are encapsulated inside of components, which are parented to the Guards.
 
 ![StateEvents](https://user-images.githubusercontent.com/69220988/170122831-cb4c393b-0504-458b-abdc-342550f14796.png)
